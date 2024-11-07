@@ -1,1 +1,5 @@
 print("Hello Word")
+print("Selamat Siang")
+print("Selamat Pagi")
+print("Selamat Sore")
+print("Selamat Malam")
